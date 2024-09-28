@@ -1,0 +1,24 @@
+#subjects{
+    display: grid;
+    grid-template-rows: auto auto auto;
+   
+}
+#iframe{
+   
+    height: 50vw;
+}
+.vid-info a{
+    text-decoration: none;
+    color: rgb(201, 199, 199)
+}
+@media screen and (max-width: 768px) {
+    #iframe{
+    
+      height: 50vh;
+      width: 60vw;
+      /* position: relative;
+      left: -90px; */
+     
+    }
+    
+}
