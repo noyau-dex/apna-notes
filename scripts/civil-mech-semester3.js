@@ -1,6 +1,6 @@
 const subjects = [
-    { href: "/notes/CSE/subjects1/CM.html", name: "Computaional Mothed" },
-    { href: "/notes/CSE/subjects1/IKS.html", name: "Indian Knowledge System" },
+    { href: "/notes/CIVIL/subjects3/CM.html", name: "Computaional Mothed" },
+    { href: "/notes/CIVIL/subjects3/IKS.html", name: "Indian Knowledge System" },
 
 ];
 
